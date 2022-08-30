@@ -1,0 +1,152 @@
+/* Episodes css */
+.ep-head thead{
+    border-bottom: #3ea844 1px solid;
+    font-size: 30px;
+    color: #f3e9b9;
+    line-height: 60px;
+}
+
+.eptable{
+    background-color: #073532;
+    font-size: 25px;
+    color: #f3e9b9;
+    line-height: 60px;
+}
+
+.eptable:hover{
+    color: #3ea844;
+}
+
+.text-align-title{
+    text-align: left;
+}
+
+.text-id{
+    padding-right: 40px;
+    padding-left: 10px;
+}
+
+.text-name{
+    text-align: left;
+    padding-right: 50px;
+    margin-left: 10px;
+}
+
+.text-align-ep{
+    padding-left: 55px;
+    text-align: right;
+}
+
+.text-align-epbody{
+    padding-left: 50px;
+}
+
+.text-align-airdate{
+    text-align: left;
+}
+
+.text-align-body-airdate{
+    text-align: left;
+}
+
+.text-align-head-nr{
+    text-align: left;
+    padding-left: 10px;
+}
+
+.padding-bottom{
+    padding-bottom: 50px;
+}
+
+.all-episodes-p{
+    background-color: #073532;
+    font-size: 35px;
+    color: #f3e9b9;
+    line-height: 60px;
+    font-weight: bold;
+}
+
+.episode-card{
+    color: #f3e9b9;
+    background-color: #073532;
+    border: 2px solid #3ea844;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px #3ea844;
+    position: relative;
+    padding: 10px;
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/* Random Episodes Picker CSS */
+.number{
+    background: #073532;
+    color: #f3e9b9;
+    margin-bottom: 50px;
+    font-weight: 490;
+}
+
+.container-num{
+    max-width: 400px;
+    margin: auto;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.random-num{
+    background: #0b3b1d;
+    padding: 20px;
+}
+
+.span-color{
+    color: #9cff9c;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.randomnumber-button{
+    background-color: #073532;
+    padding-bottom: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    border-radius: 50px;
+    border-color: #3ea844 !important;
+    border: solid 2px;
+    color: #f3e9b9;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.randomnumber-button:hover{
+    background-color: #3ea844;
+    cursor: pointer;
+    box-shadow: 0px 0px 20px #3ea844;
+}
+
+.butn-div{
+    padding-top: 20px;
+    background-color: #073532;
+}
+
+.randomnumber-button:focus{
+    background-color: #3ea844;
+    border-color: #3ea844;
+}
+
+.p-padding{
+    padding-top: 8px;
+    font-size: 20px;
+    color: #f3e9b9;
+}
+
+.padding{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.content-bgg{
+    background-color: #07413e;
+}
